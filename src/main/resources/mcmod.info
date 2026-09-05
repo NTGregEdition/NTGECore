@@ -1,21 +1,16 @@
+[
 {
-	"modListVersion": 2,
-	"modList": [{
-		"modid": "${modId}",
-		"name": "${modName}",
-		"description": "Core Mod for Nuclear Tech: Greg Edition",
-		"version": "${modVersion}",
-		"mcversion": "${minecraftVersion}",
-		"url": "",
-		"updateUrl": "",
-		"authorList": ["Arystan_X"],
-		"credits": "",
-		"logoFile": "",
-		"screenshots": [],
-		"parent": "",
-		"requiredMods": [],
-		"dependencies": [],
-		"dependants": [],
-		"useDependencyInformation": false
-	}]
+  "modid": "ntgecore",
+  "name": "NTGE Core",
+  "description": "Core Mod for Nuclear Tech: Greg Edition",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Arystan_X"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
 }
+]
