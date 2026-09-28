@@ -11,7 +11,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 public class NtgeCore {
 
     public static final String MODID = "ntgecore";
-    public static final String VERSION = "0.0.2";
+    public static final String VERSION = "0.0.3";
 
     @SidedProxy(
             clientSide = "com.ntge.ntgecore.proxy.ClientProxy",
